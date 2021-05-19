@@ -1,0 +1,4 @@
+include ':TarsosDSP-Android-latest'
+include ':TarsosDSP-Android-2.0'
+include ':app'
+rootProject.name = "BeatRunner2"
